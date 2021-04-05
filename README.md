@@ -1,4 +1,7 @@
 # Customised PHESANT - PHEnome Scan ANalysis Tool.
+
+![plot](./docs/phesant.png)
+
 Run a phenome scan and write the resultant phenotypes to disk. Much of the code is identical to [PHESANT](https://github.com/MRCIEU/PHESANT), and we refer users to that repository for running analyses and creating visualisations.
 
 ## General requirements
